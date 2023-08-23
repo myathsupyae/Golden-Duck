@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: #ac3c5a;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+    font-weight: bold;
+    color:#FFf ;
+    font-size: 20px;
+    background-color: #FFBF2D;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+    font-size: 45px;
+    color: #FFF;
+    margin: 10px;
+}
+address{
+    color: #cb7a37;
+    padding:10px ;
+}
+nav{
+    background-color: #472b5d;
+    padding: 20px;
+}
+nav ul li{
+    display: inline;
+    margin-left:20px;
+}
+nav ul li a{
+    color: #FFF;
+    padding: 10px;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: #b09610;
+    text-decoration: underline;
+    text-shadow: 1px 1px 1px #472b5d;
+}
+section{
+    background-color: #faf9f0;
+    padding: 40px;
+}
+section p{
+    line-height: 30px;
+    margin: 2opx;
+}
+footer{
+    background-color: #892143;
+    color: #FFF;
+    padding: 20px;
+}
+footer p{
+    margin: 0 auto;
+    text-align: center;
+    
+}
+/* takeout page */
+table{
+    width: 100%;
+}
+table,td{
+    padding: 10px;
+}
+table th{
+    text-align: left;
+    font-size: 19px;
+    background-color: #FFBF2D;
+    padding-left: 10px;
+}
+.red{
+    color: red;
+}
+.gold{
+    color: #FFBF2D;
+}
+.red{
+    color: red;
+}
